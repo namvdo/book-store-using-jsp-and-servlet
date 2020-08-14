@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/db/AuthorDAO.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/bean/LineItemBean.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/db/UserDAO.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/web/template/styles.min.css</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/web/filter/registrationForm.jsp</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/web/view/notEnoughQuantity.jsp</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/controller/BookLookUpController.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/bean/ReviewBean.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/web/template/footer.jsp</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/web/template/header.jsp</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/bean/CartBean.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/db/TransactionDAO.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/web/filter/login.jsp</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/controller/BookRatingController.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/controller/CustomerPageController.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/bean/TransactionBean.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/db/GenreDAO.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/bean/GenreBean.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/db/DBContext.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/controller/CartUpdateController.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/bean/BookBean.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/db/BookDAO.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/controller/BookSearchController.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/web/view/customerProfilePage.jsp</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/web/view/searchResult.jsp</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/bean/AuthorBean.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/controller/UpdateUserController.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/db/LineItemDAO.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/bean/UserBean.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/db/BookViewDAO.java</file>
+            <file>file:/C:/Users/Nam/Documents/NetBeansProjects/book-store/src/java/db/ReviewDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
